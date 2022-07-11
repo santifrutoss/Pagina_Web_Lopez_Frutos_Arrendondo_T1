@@ -1,0 +1,33 @@
+h1 {
+  color: violet;
+}
+header {
+  background-color: rgba(3, 97, 126, 0.842);
+  text-align: center;
+  font-size: 60px;
+}
+section {
+  background-color: rgba(126, 150, 155, 0.795);
+}
+body {
+  background-color: rgba(91, 122, 131, 0.589);
+}
+p {
+  font-family: "Raleway", sans-serif;
+  text-align: left;
+  font-size: 25px;
+}
+.centrar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.derecha {
+  float: right;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
